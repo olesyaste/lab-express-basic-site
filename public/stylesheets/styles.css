@@ -1,0 +1,32 @@
+body {
+    background-image: url('/images/home1.jpg');
+    color: #933730;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Grandstander', cursive;
+    font-size: 30px;
+    margin: 50px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    padding-top: 50px;
+    color: #4b4c4f;
+}
+
+h1 {
+    text-shadow: 2px 2px #fff;
+}
+
+p {
+    color: #4b4c4f;
+}
+
+img {
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    height: 200px;
+}
